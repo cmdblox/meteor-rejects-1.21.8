@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logo and Title -->
-  <img src="/src/main/resources/assets/rejects/icon.png" alt="logo" width="20%"/>
+  <img src="/src/main/resources/assets/rejects/icon.png" alt="logo" width="20%"/> 
   <h1>Meteor Rejects</h1>
   <p>An addon to Meteor Client that has features that won't be added to Meteor because they were either rejected or are ports from other clients.</p>
 
